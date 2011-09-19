@@ -1,0 +1,3 @@
+[submodule "vendor/steam-condenser"]
+	path = vendor/steam-condenser
+	url = git://github.com/koraktor/steam-condenser.git
